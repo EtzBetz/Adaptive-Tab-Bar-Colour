@@ -1,3 +1,6 @@
+[WIP] Goal of this fork is to provide extension which only extracts the meta theme-color from the page and provides it as css variable.
+
+
 ![Icon](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour/blob/main/scr/images/ATBC_128.png)  
 ![Mozilla Add-on Users](https://img.shields.io/amo/users/adaptive-tab-bar-colour)
 ![Mozilla Add-on Rating](https://img.shields.io/amo/stars/adaptive-tab-bar-colour)
